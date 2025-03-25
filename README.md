@@ -17,6 +17,7 @@ Managing medical records across multiple hospitals and clinics is a significant 
 - Categorized storage for easy retrieval (by **date, doctor, or medical condition**).
 - **AI-based health insights** to assist users in understanding their medical data.
 
+
 ### 3. Doctor & Hospital Access (With Permission)
 - Users can **grant access** to specific healthcare providers.
 - **Temporary access links** can be shared with doctors.
